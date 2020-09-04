@@ -1,0 +1,9 @@
+BusinessContact:GrandCanyon|707|null|null
+BusinessContact:Jazmin|707|null|null
+BusinessContact:Katie|606|10-4|site.com
+PersonContact|Mara|2002-02-02|mom dad|me|808|w
+BusinessContact:Munoz|505|10-2|webstie.com
+PersonContact|Phil|2002-03-03|c|relatives|808|contact list
+PersonContact|Robert|2002-02-03|c|relatives|808|contact list
+BusinessContact:Robin|707|null|null
+PersonContact|Steve|2002-04-03|c|relatives|808|contact list
